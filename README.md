@@ -3,6 +3,7 @@
 I'm a software engineer currently pursuing a Graduate degree in Computer Science at Arizona State University. I currently work as a web development intern at Unite for Rights, an NPO based in San Francisco, California, where I'm incharge of improving the UI/UX of their website, fixing bugs and adding elements to their front-end, as well as improving their search engine optimization. Through my projects, I strive to solve real-world problems and enhance user experiences.
 
 ### Tech Stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
