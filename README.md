@@ -7,6 +7,13 @@ I'm a software engineer currently pursuing a Graduate degree in Computer Science
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
+## GitHub Stats
+
+![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshaArif6&show_icons=true&theme=github_dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaArif6&layout=compact&theme=github_dark)
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaArif6&theme=github_dark)
 
 <!--
 **ayeshaArif6/ayeshaArif6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
