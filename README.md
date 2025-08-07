@@ -9,13 +9,19 @@ I'm a software engineer currently pursuing a Graduate degree in Computer Science
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaArif6&layout=compact&theme=github_dark) ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaArif6&theme=github_dark)
+ ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaArif6&theme=github_dark)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaArif6&layout=compact&theme=github_dark)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🧠 [SafePass](https://github.com/ayeshaArif6/safepass): A zero-knowledge password manager with Spring Boot, PostgreSQL, and JWT authentication.
-- 📸 [Sortify](https://github.com/ayeshaArif6/sortify): An AI-powered image organizer using Google Cloud Vision, React, and Firebase.
-- 🌿 [Field Day Tool](https://github.com/ayeshaArif6/fieldday): A data collection and query system for ecological research using Firestore and React.
+- 🧠 [SafePass](https://github.com/ayeshaArif6/safepass):
+      A zero-knowledge password manager with Spring Boot, PostgreSQL, and JWT authentication.
+  
+- 📸 [Sortify](https://github.com/ayeshaArif6/sortify):
+      An AI-powered image organizer using Google Cloud Vision, React, and Firebase.
+  
+- 🌿 [Field Day Tool](https://github.com/ayeshaArif6/fieldday):
+      A data collection and query system for ecological research using Firestore and React.
 
 <!--
 **ayeshaArif6/ayeshaArif6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
