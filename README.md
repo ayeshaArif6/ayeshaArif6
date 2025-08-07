@@ -9,11 +9,7 @@ I'm a software engineer currently pursuing a Graduate degree in Computer Science
 
 ## GitHub Stats
 
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshaArif6&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaArif6&layout=compact&theme=github_dark)
-
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaArif6&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaArif6&layout=compact&theme=github_dark) ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaArif6&theme=github_dark)
 
 ## 🚀 Featured Projects
 
