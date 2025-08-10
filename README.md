@@ -8,7 +8,6 @@ I'm a software engineer currently pursuing a Graduate degree in Computer Science
 
 
 ## GitHub Stats
- ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaArif6&theme=github_dark)
  <br>
  <br>
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaArif6&layout=compact&theme=github_dark)
