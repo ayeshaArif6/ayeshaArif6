@@ -17,11 +17,11 @@ I'm a software engineer currently pursuing a Graduate degree in Computer Science
 
 ## Featured Projects
 
-- [Smart Email Assistant](https://github.com/ayeshaArif6/EmailWriter):
+- [Smart Email Assistant](https://github.com/ayeshaArif6/EmailWriter)
   
-- [Sortify](https://github.com/ayeshaArif6/sortify):
+- [Sortify](https://github.com/ayeshaArif6/sortify)
     
-- [Field Day Tool](https://github.com/ayeshaArif6/fieldday):
+- [Field Day Tool](https://github.com/ayeshaArif6/fieldday)
     
 <!--
 **ayeshaArif6/ayeshaArif6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
