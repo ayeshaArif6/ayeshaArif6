@@ -1,6 +1,6 @@
 ## Hello, I'm Ayesha Arif 👋
 
-I'm a software engineer currently pursuing a Graduate degree in Computer Science at Arizona State University. I currently work as a web development intern at Unite for Rights, an NPO based in San Francisco, California, where I'm incharge of improving the UI/UX of their website, fixing bugs and adding elements to their front-end, as well as improving their search engine optimization. Through my projects, I strive to solve real-world problems and enhance user experiences.
+I'm a software engineer currently pursuing a Graduate degree in Computer Science at Arizona State University. Through my projects, I strive to solve real-world problems and enhance user experiences.
 
 ## Tech Stack
 
